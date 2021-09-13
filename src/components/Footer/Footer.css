@@ -1,0 +1,36 @@
+:root{
+    --color-home:#FFD980;
+    --color-about:#fff;
+}
+.footer{ 
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:var(--color-home) ;
+}
+
+.footer>hr{
+    width: 90%;
+    padding: 0.1px;
+    margin: 1% 0;
+    border: none;
+    background-color: black;
+}
+.footer>p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5vw;
+}
+@media screen and (min-width: 768px) {
+    .footer>p{
+        font-size: 2.2vw;      
+    }
+}
+@media screen and (min-width: 1024px) {
+.footer{
+    width: 100%;
+}
+.footer>p{
+    font-size: 1.5vw;
+}
+}

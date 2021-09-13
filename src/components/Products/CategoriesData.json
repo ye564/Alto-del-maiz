@@ -1,0 +1,27 @@
+[
+    {   
+        "id":1,
+        "category":"Panes",
+        "image":"https://i.ibb.co/j3YZS55/cornfield-monoculture-landscape-agriculture.png",
+        "path":"/Loaves",
+        "cName":"card",
+        "cImg":"Card-img"
+        
+    },
+    {   
+        "id":2,
+        "category":"Pasteleria",
+        "image":"https://i.ibb.co/31Qp8hK/pasteleria.png",
+        "path":"/CakeShop",
+        "cName":"card",
+        "cImg":"Card-img"
+    },
+    {   
+        "id":3,
+        "category":"Bebidas",
+        "image":"https://i.ibb.co/pPKSrRD/bebidas.png",
+        "path":"/Drinks",
+        "cName":"card",
+        "cImg":"Card-img"
+    }
+]

@@ -1,0 +1,116 @@
+.background-network{
+    background-color: #4ED0FA;
+    padding: 5rem 0 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.background-network>h2{
+    font-size: 6vw;
+}
+
+.networks-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    border-radius: 50px;
+}
+.facebook{
+    display: flex;
+    align-items: center;
+    padding: 2rem  2rem;
+}
+.facebook>h2{
+    font-size: 4vw;
+}
+
+.facebook>img{
+    width: 8%;
+}
+
+.instagram{
+    display: flex;
+    align-items: center;
+    padding: 2rem  2rem;
+ 
+}
+.instagram>img{
+    width: 8%;
+ 
+}
+.instagram>h2{
+    font-size: 4vw;
+
+}
+.correo{
+    display: flex;
+    align-items: center;
+    padding: 2rem  2rem;
+}
+.correo>img{
+    width: 8%;
+    
+}
+.correo>h2{
+    font-size: 4vw;
+}
+
+@media screen and (min-width:640px) {
+    .background-network>h2{
+        font-size: 4vw;
+        padding: 2rem 0;
+    }
+    .facebook>img{
+        width: 13%;
+    }
+    .facebook>h2{
+        font-size: 3.5vw;
+     
+    }
+    
+    .instagram>img{
+        width: 13%;
+      
+    }
+    .instagram>h2{
+        font-size: 3.5vw;
+     
+    }
+
+    .correo>img{
+        width: 13%;
+       }
+    .correo>h2{
+        font-size: 3.5vw;
+    }
+  
+  
+}
+@media screen and (min-width:780px) {
+    .networks-card{
+        width: 80%;
+    }
+    .background-network>h2{
+        font-size: 4vw;
+        padding: 2rem 0;
+    }
+    
+    
+    .facebook>h2{
+        font-size: 3vw;
+    }
+   
+    .instagram>h2{
+        font-size: 3vw;
+      
+    }
+    .correo>h2{
+        font-size: 3vw;
+    }
+ }
+
+  
+

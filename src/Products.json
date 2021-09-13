@@ -1,0 +1,106 @@
+[
+    {
+        "id":1,
+        "category":"loaves",
+        "name":"Mantecada de maíz",
+        "image":"https://i.ibb.co/w0qHXtZ/mantecada.jpg",
+        "description":"Se caracteriza por su tamaño rectangular con porciones para seis personas, es un producto de contextura suave, esponjosa con sabor artesanal a maíz, es un producto dulce y fresco.",
+        "prince":9000,
+        "amount":"Uni",
+        "amounts":1
+    },
+    {
+        "id":2,
+        "category":"loaves",
+        "name":"Pan de maíz",
+        "image":"https://i.ibb.co/vhSkJX5/pan.jpg",
+        "description":"Se caracterizan por su olor fresco a maíz, con un sabor dulce y con una contextura suave y esponjosa, contiene un sabor artesanal.",
+        "prince":8000,
+        "amount":"Pkg de 5 Uni",
+        "amounts":1
+    },
+    {
+        "id":3,
+        "category":"loaves",
+        "name":"Envuelto 3 puntas",
+        "image":"https://i.ibb.co/CHGzknh/envueltos.jpg",
+        "description":"Se caracteriza por ser esponjoso con forma triangular y dulce.",
+        "prince":3500,
+        "amount":"Uni",
+        "amounts":1
+    },
+    {
+        "id":4,
+        "category":"loaves",
+        "name":"Garullas de maíz",
+        "image":"https://i.ibb.co/9bN526G/garulla.jpg",
+        "description":"Se caracteriza por ser ovalada suave y con un sabor agridulce.",
+        "prince":2500,
+        "amount":"Uni",
+        "amounts":1
+    },
+    {
+        "id":5,
+        "title":"Panes",
+        "category":"loaves",
+        "name":"Arepa de maíz",
+        "image":"https://i.ibb.co/BzdWZMw/arepas.jpg",
+        "description":"Se caracteriza por su tamaño redondo y arenoso con un relleno de queso.",
+        "prince":1000,
+        "amount":"Uni",
+        "amounts":1
+    },
+    { 
+        "id":6,
+        "title":"Pasteleria",
+        "category":"cake_shop",
+        "name":"Torta de maíz",
+        "image":"https://i.ibb.co/F4mK19K/Torta-de-maiz.jpg",
+        "description":"De caracteriza por su textura esponjosa y suave con relleno de fruta y una banca crema suave con una decoración sencilla o personalizada.",
+        "prince":15000,
+        "amount":"1 cwt",
+        "amounts":1
+    },
+    {
+        "id":7,
+        "category":"cake_shop",
+        "name":"Colaciones de maíz",
+        "image":"https://i.ibb.co/ZJrByvF/colaciones.jpg",
+        "description":"Es un producto con característica en su tamaño redondo, aunque es opcional de contextura arenosa, con figuras o emotivos que desee el consumidor, su sabor netamente maíz y dulce.",
+        "prince":3000,
+        "amount":"Pkg de 6 Uni",
+        "amounts":1
+    },
+    {
+        "id":8,
+        "category":"cake_shop",
+        "name":"Galletas de maíz",
+        "image":"https://i.ibb.co/yWSM2kP/galletas.jpg",
+        "description":"Es un producto con característica en su tamaño redondo, aunque es opcional de contextura arenosa, con sabor netamente maíz y dulce.",
+        "prince":500,
+        "amount":"Uni",
+        "amounts":1
+        
+    },
+    {
+        "id":9,
+        "title":"Bebidas",
+        "category":"drinks",
+        "name":"Masato de maíz",
+        "image":"https://i.ibb.co/pPhp93G/masato.jpg",
+        "description":"Esta bebida caracterizada por ser espesa con sabor a maíz fermentado.",
+        "prince":2000,
+        "amount":"7 hz",
+        "amounts":1
+    },
+    {
+        "id":10,
+        "category":"drinks",
+        "name":"Vino artesanal",
+        "image":"https://i.ibb.co/FxkNh2q/vino.jpg",
+        "description":"se caracteriza por ser seco y de sabor a mora.",
+        "prince":18000,
+        "amount":"750 ml",
+        "amounts":1
+    }
+]

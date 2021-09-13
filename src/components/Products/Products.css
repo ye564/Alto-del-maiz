@@ -1,0 +1,147 @@
+.background-category{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F49459;
+    padding: 7.5rem 0 2rem ;
+}
+.logo-category{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    border-radius: 50px;
+    padding: 0 0 1rem;
+}
+.logo-category>img{
+    width: 100%;
+    border-radius: 30px;
+    
+}
+.bacground-items{
+    width: 100%;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 7vw; 
+}
+.title>img{
+    width: 8%;
+    height: auto;
+}
+
+.categorys{
+    width: 100%;
+}
+.card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: -2% 0;
+
+}
+.Card-img{
+    width: 80%;
+    height: 20vw;
+    border-radius: 25px;
+    object-fit: cover;
+}
+
+.category{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 10% 0;
+}
+
+.category>img{
+    width: 200%;
+    height: 25vw;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.texts{
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.texts>p{
+    font-size: 7vw;
+}
+
+@media screen and (min-width:640px) {
+    .logo-category>img{
+        width: 56%;
+        margin: 4rem 0 ;
+    }
+    .categorys{
+        display: grid;
+        grid-template-columns: repeat(2,50%);
+    }
+    .Card-img{
+        width: 80%;
+        height: 30vw;
+    }
+    .texts>p{
+        font-size: 5vw;
+    }
+}
+@media screen and (min-width:768px) {
+    .logo-category>img{
+        width: 45%;
+        margin: 4rem 0 ;
+    }
+    .title{
+        font-size: 5vw;
+    }
+    .categorys{
+        display: grid;
+        grid-template-columns: repeat(2,50%);
+    }
+    .bacground-items{
+        width: 90%;
+    }
+    .Card-img{
+        width: 68%;
+        height: 20vw;
+    }
+    .texts>p{
+        font-size: 4vw;
+    }
+}
+@media screen and (min-width:768px) {
+    .logo-category>img{
+        width: 40%;
+        margin: 4rem 0 ;
+    }
+    .title{
+        font-size: 4vw;
+    }
+    .title>img{
+        width: 5%;
+    }
+    .categorys{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .bacground-items{
+        width: 90%;
+    }
+    .Card-img{
+        width: 79%;
+        height: 22vw;
+    }
+    .texts>p{
+        font-size: 3.5vw;
+    }
+}

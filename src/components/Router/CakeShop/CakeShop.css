@@ -1,0 +1,54 @@
+.background-cake{
+    padding: 5rem 0 2rem;
+    background-color: #FFDE90;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.background-cards-cake{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0;
+    background-color: white;
+    border-radius: 50px;
+}
+.title-cake{
+    padding: 4rem 0 3rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7vw;
+}
+
+@media screen and (min-width:320px) {
+    .title-cake{
+       font-size: 6vw;
+    }
+   
+}
+@media screen and (min-width:640px) {
+    .title-cake{
+        font-size: 4.6vw;
+     }
+     .background-cards-cake{
+         display: grid;
+         grid-template-columns: repeat(2, 50%);
+     }
+}
+@media screen and (min-width:780px) {
+    .title-cake{
+        font-size: 3.7vw;
+     }
+}
+@media screen and (min-width:1024px) {
+    .title-cake{
+        font-size: 4.2vw;
+     }
+     .background-cards-cake{
+         display: grid;
+         grid-template-columns: repeat(3, 1fr);
+     }
+}

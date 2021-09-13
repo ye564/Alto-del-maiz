@@ -1,0 +1,55 @@
+.position-Loaves{
+    padding: 4.5rem  0 2rem;
+ background-color: #F3BC58;   
+}
+.title-loaves{
+    display: flex;
+    font-size: 9vw;
+    padding: 2rem 0;
+    justify-content: center;
+}
+.title-loaves>img{
+    width: 4%;
+}
+.background-cards-laves{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 0 1rem;
+    background-color: white;
+    border-radius: 50px;
+}
+.card-products{
+    background-color: #EEB83E;
+}
+ 
+@media screen and (min-width:320px) {
+    .title-loaves{
+       font-size: 6vw;
+    }
+   
+}
+@media screen and (min-width:640px) {
+    .title-loaves{
+        font-size: 4.6vw;
+     }
+     .background-cards-laves{
+         display: grid;
+         grid-template-columns: repeat(2, 50%);
+     }
+}
+@media screen and (min-width:780px) {
+    .title-loaves{
+        font-size: 3.7vw;
+     }
+}
+@media screen and (min-width:1024px) {
+    .title-loaves{
+        font-size: 4.2vw;
+     }
+     .background-cards-laves{
+         display: grid;
+         grid-template-columns: repeat(3, 1fr);
+     }
+}
