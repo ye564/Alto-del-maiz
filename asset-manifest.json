@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.aab6674e.chunk.css",
-    "main.js": "/static/js/main.ee0f075e.chunk.js",
-    "main.js.map": "/static/js/main.ee0f075e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.da73a6d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.da73a6d5.js.map",
-    "static/js/2.a61ac1e8.chunk.js": "/static/js/2.a61ac1e8.chunk.js",
-    "static/js/2.a61ac1e8.chunk.js.map": "/static/js/2.a61ac1e8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.aab6674e.chunk.css.map": "/static/css/main.aab6674e.chunk.css.map",
-    "static/js/2.a61ac1e8.chunk.js.LICENSE.txt": "/static/js/2.a61ac1e8.chunk.js.LICENSE.txt",
-    "static/media/categorias.20e61bfb.svg": "/static/media/categorias.20e61bfb.svg",
-    "static/media/correo.c200a3f0.svg": "/static/media/correo.c200a3f0.svg",
-    "static/media/facebook.b5d4510c.svg": "/static/media/facebook.b5d4510c.svg",
-    "static/media/icon_close.1c394798.svg": "/static/media/icon_close.1c394798.svg",
-    "static/media/icon_open.dc2befa2.svg": "/static/media/icon_open.dc2befa2.svg",
-    "static/media/imgP.52239a6e.jpeg": "/static/media/imgP.52239a6e.jpeg",
-    "static/media/instagram.daa56744.svg": "/static/media/instagram.daa56744.svg",
-    "static/media/logo.85c0ce81.jpeg": "/static/media/logo.85c0ce81.jpeg"
+    "main.css": "/Alto-del-maiz/static/css/main.aab6674e.chunk.css",
+    "main.js": "/Alto-del-maiz/static/js/main.522a3cbe.chunk.js",
+    "main.js.map": "/Alto-del-maiz/static/js/main.522a3cbe.chunk.js.map",
+    "runtime-main.js": "/Alto-del-maiz/static/js/runtime-main.e35b2401.js",
+    "runtime-main.js.map": "/Alto-del-maiz/static/js/runtime-main.e35b2401.js.map",
+    "static/js/2.a61ac1e8.chunk.js": "/Alto-del-maiz/static/js/2.a61ac1e8.chunk.js",
+    "static/js/2.a61ac1e8.chunk.js.map": "/Alto-del-maiz/static/js/2.a61ac1e8.chunk.js.map",
+    "index.html": "/Alto-del-maiz/index.html",
+    "static/css/main.aab6674e.chunk.css.map": "/Alto-del-maiz/static/css/main.aab6674e.chunk.css.map",
+    "static/js/2.a61ac1e8.chunk.js.LICENSE.txt": "/Alto-del-maiz/static/js/2.a61ac1e8.chunk.js.LICENSE.txt",
+    "static/media/categorias.20e61bfb.svg": "/Alto-del-maiz/static/media/categorias.20e61bfb.svg",
+    "static/media/correo.c200a3f0.svg": "/Alto-del-maiz/static/media/correo.c200a3f0.svg",
+    "static/media/facebook.b5d4510c.svg": "/Alto-del-maiz/static/media/facebook.b5d4510c.svg",
+    "static/media/icon_close.1c394798.svg": "/Alto-del-maiz/static/media/icon_close.1c394798.svg",
+    "static/media/icon_open.dc2befa2.svg": "/Alto-del-maiz/static/media/icon_open.dc2befa2.svg",
+    "static/media/imgP.52239a6e.jpeg": "/Alto-del-maiz/static/media/imgP.52239a6e.jpeg",
+    "static/media/instagram.daa56744.svg": "/Alto-del-maiz/static/media/instagram.daa56744.svg",
+    "static/media/logo.85c0ce81.jpeg": "/Alto-del-maiz/static/media/logo.85c0ce81.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.da73a6d5.js",
+    "static/js/runtime-main.e35b2401.js",
     "static/js/2.a61ac1e8.chunk.js",
     "static/css/main.aab6674e.chunk.css",
-    "static/js/main.ee0f075e.chunk.js"
+    "static/js/main.522a3cbe.chunk.js"
   ]
 }
