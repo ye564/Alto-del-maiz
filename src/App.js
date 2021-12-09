@@ -11,17 +11,17 @@ function App() {
   return (
     <DataProvider>
 
-    <div className="App">
-      <Router basename={process.env.PUBLIC_URL}>
-          <Header/> 
-         
-          <Cart/> 
-         
-          <Pages/>
-          <Footer/>
-      </Router>
-     
-    </div>
+      <div className="App">
+        <Router basename={process.env.PUBLIC_URL}>
+          <Header />
+
+          <Cart />
+
+          <Pages />
+          {/* <Footer/> */}
+        </Router>
+
+      </div>
     </DataProvider>
   );
 }
